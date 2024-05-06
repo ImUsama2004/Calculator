@@ -1,0 +1,55 @@
+body{
+    background-color: skyblue;
+    padding: 0%;
+    margin: 0%;
+
+}
+#container{
+    position: absolute;
+    background-color: black;
+    height: 400px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    
+
+
+}
+#screen{
+    height: 70px;
+    margin-top: 5%;
+    background-color: darkkhaki;
+    border: 2px solid black;
+    border-radius: 19px;
+}
+
+#btn0{
+    height: 100%;
+    width: 50%;
+    background-color: red;
+
+} 
+.btn1{
+    height: 40px;
+    width: 50px;
+}
+.btn2{
+    height: 40px;
+    width: 50px;
+}
+.btn3{
+    height: 40px;
+    width: 50px;
+}
+.btn4{
+    height: 40px;
+    width: 50px;
+
+}
+.btn6{
+    height: 40px;
+    width: 50px;
+}
+#plus{
+    margin-left: 53%;
+}
